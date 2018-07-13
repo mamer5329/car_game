@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/untitled2.dir/main.cpp.o"
+  "CMakeFiles/untitled2.dir/Menu.cpp.o"
+  "CMakeFiles/untitled2.dir/Dziura.cpp.o"
+  "CMakeFiles/untitled2.dir/samochod.cpp.o"
+  "CMakeFiles/untitled2.dir/WindowGame.cpp.o"
+  "CMakeFiles/untitled2.dir/SmallView.cpp.o"
+  "CMakeFiles/untitled2.dir/Numery.cpp.o"
+  "CMakeFiles/untitled2.dir/instrukcja.cpp.o"
+  "untitled2.pdb"
+  "untitled2"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/untitled2.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
